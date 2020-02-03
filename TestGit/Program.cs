@@ -13,6 +13,7 @@ namespace TestGit
             Console.WriteLine("Vuine");
             Console.WriteLine("Hi");
             Console.WriteLine("Hihihi");
+            Console.WriteLine("Vui đep trai nè");
         }
     }
 }
