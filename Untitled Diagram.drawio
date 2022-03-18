@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-18T10:47:03.740Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="i-25GvNAcUrjJ3DWlSPY" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-18T10:54:36.599Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="zeQntQvXByIRo_Bz6ZFy" version="17.1.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="2833" dy="1170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1445" dy="351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,274 +25,274 @@
             <mxRectangle width="130" height="27" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SgwJnI46MebYwalEIYTJ-1" target="SgwJnI46MebYwalEIYTJ-2">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SgwJnI46MebYwalEIYTJ-1" target="SgwJnI46MebYwalEIYTJ-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-1" value="Request from Grab" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-1" value="Request from Grab" style="triangle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="160" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-2" value="MuleSoft-API&lt;br&gt;grab\create\1.0:apiConfig" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-2" value="MuleSoft-API&lt;br&gt;grab\create\1.0:apiConfig" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="170" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="199.5" as="sourcePoint" />
             <mxPoint x="560" y="199.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-6" value="Authentication common" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-6" value="Authentication common" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="170" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-8" value="pubish-message-to-queue-order_grab" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-8" value="pubish-message-to-queue-order_grab" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="270" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SgwJnI46MebYwalEIYTJ-6" target="SgwJnI46MebYwalEIYTJ-8">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SgwJnI46MebYwalEIYTJ-6" target="SgwJnI46MebYwalEIYTJ-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="209.5" as="sourcePoint" />
             <mxPoint x="570" y="209.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-10" value="check_order&lt;br&gt;is_existed" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-10" value="check_order&lt;br&gt;is_existed" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="315" y="260" width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="SgwJnI46MebYwalEIYTJ-10" source="SgwJnI46MebYwalEIYTJ-8">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="SgwJnI46MebYwalEIYTJ-8" target="SgwJnI46MebYwalEIYTJ-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="220" as="sourcePoint" />
             <mxPoint x="350" y="199.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-13" value="&lt;b&gt;Get Data From OMS_ORDER_HEADER,&lt;/b&gt;&lt;br&gt;SELECT ORDERNO FROM OMS_ORDER_HEADER WHERE ORDERNO = :orderNo and CHANNEL = :channel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-13" value="&lt;b&gt;Get Data From OMS_ORDER_HEADER,&lt;/b&gt;&lt;br&gt;SELECT ORDERNO FROM OMS_ORDER_HEADER WHERE ORDERNO = :orderNo and CHANNEL = :channel" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-78" y="260" width="320" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-14" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="SgwJnI46MebYwalEIYTJ-13" target="SgwJnI46MebYwalEIYTJ-10">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-14" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" source="SgwJnI46MebYwalEIYTJ-13" target="SgwJnI46MebYwalEIYTJ-10" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="370" y="280" as="sourcePoint" />
             <mxPoint x="470" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-16" value="Listen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-16" value="Listen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="470" y="280" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-17" value="Check &lt;br&gt;by query" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-17" value="Check &lt;br&gt;by query" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="249" y="255" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-19" value="process insertion order" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-19" value="process insertion order" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-20" value="Message to telegram: &quot;Grab Order - #&quot; ++ orderId ++ &quot; already existing in OMS&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-20" value="Message to telegram: &quot;Grab Order - #&quot; ++ orderId ++ &quot; already existing in OMS&quot;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="400" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-23" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-23" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="350.25" y="223.75" width="50" height="302.5" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-24" value="is existed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-24" value="is existed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="425" y="350" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-25" value="is NOT existed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-25" value="is NOT existed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="260" y="350" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-26" value="declare_query_parameter Sub Flow" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-26" value="declare_query_parameter Sub Flow" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="510" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.432;exitY=1.024;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SgwJnI46MebYwalEIYTJ-19">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.432;exitY=1.024;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="SgwJnI46MebYwalEIYTJ-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="450" as="sourcePoint" />
             <mxPoint x="212" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.432;exitY=1.024;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.432;exitY=1.024;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="212.84000000000015" y="568.44" as="sourcePoint" />
             <mxPoint x="213" y="617" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-32" value="save_new_order_into_dwh" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-32" value="save_new_order_into_dwh" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="136" y="618" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-33" value="select seq_oms_order_header.nextval from dual" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-33" value="select seq_oms_order_header.nextval from dual" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-140" y="618" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-34" value="&lt;div&gt;INSERT INTO OMS_ORDER_HEADER (ORDERID, ORDERNO, STOREID,&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt;									&lt;/span&gt;P_STOREID, ORDERSTATUS, DLV_STATUS, REASON, NOTE, CHANNEL, AMTTOTAL, TAXVALUE,&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt;									&lt;/span&gt;AMTPROMO, PAYMENT_METHOD_ID, CREATEDBY, CREATEDDATE, MODIFIEDBY, MODIFIEDDATE,&lt;/div&gt;&lt;div&gt;&lt;span&gt;									&lt;/span&gt;SHIPPING_FEE, ORDER_DATE, CASHIERNO,SLOTID)&lt;/div&gt;&lt;div&gt;&lt;span&gt;				&lt;/span&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt;					&lt;/span&gt;VALUES (:orderID, :orderNo,&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt;							&lt;/span&gt;:storeID, :pStoreID, :orderStatus, NULL, :reason, NULL, :channel, :amtTotal,&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt;							&lt;/span&gt;:taxValue, :amtPromo, :paymentMethodId, :createdBy, TO_DATE(:sysdate, &#39;YYYY-MM-DD HH24:MI:SS&#39;),&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt;							&lt;/span&gt;:modifiedBy, TO_DATE(:modifiedDate, &#39;YYYY-MM-DD HH24:MI:SS&#39;), :shippingFee, TO_DATE(:orderDate, &#39;YYYY-MM-DD HH24:MI:SS&#39;), :cashier,:slotID)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-34" value="&lt;div&gt;INSERT INTO OMS_ORDER_HEADER (ORDERID, ORDERNO, STOREID,&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt;         &lt;/span&gt;P_STOREID, ORDERSTATUS, DLV_STATUS, REASON, NOTE, CHANNEL, AMTTOTAL, TAXVALUE,&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt;         &lt;/span&gt;AMTPROMO, PAYMENT_METHOD_ID, CREATEDBY, CREATEDDATE, MODIFIEDBY, MODIFIEDDATE,&lt;/div&gt;&lt;div&gt;&lt;span&gt;         &lt;/span&gt;SHIPPING_FEE, ORDER_DATE, CASHIERNO,SLOTID)&lt;/div&gt;&lt;div&gt;&lt;span&gt;    &lt;/span&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt;     &lt;/span&gt;VALUES (:orderID, :orderNo,&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt;       &lt;/span&gt;:storeID, :pStoreID, :orderStatus, NULL, :reason, NULL, :channel, :amtTotal,&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt;       &lt;/span&gt;:taxValue, :amtPromo, :paymentMethodId, :createdBy, TO_DATE(:sysdate, &#39;YYYY-MM-DD HH24:MI:SS&#39;),&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt;       &lt;/span&gt;:modifiedBy, TO_DATE(:modifiedDate, &#39;YYYY-MM-DD HH24:MI:SS&#39;), :shippingFee, TO_DATE(:orderDate, &#39;YYYY-MM-DD HH24:MI:SS&#39;), :cashier,:slotID)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-140" y="720" width="220" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SgwJnI46MebYwalEIYTJ-33" target="SgwJnI46MebYwalEIYTJ-34">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SgwJnI46MebYwalEIYTJ-33" target="SgwJnI46MebYwalEIYTJ-34" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="800" as="sourcePoint" />
             <mxPoint x="230" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-36" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SgwJnI46MebYwalEIYTJ-33" target="SgwJnI46MebYwalEIYTJ-32">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-36" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SgwJnI46MebYwalEIYTJ-33" target="SgwJnI46MebYwalEIYTJ-32" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="150" y="830" as="sourcePoint" />
             <mxPoint x="250" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-37" value="Scatter-Gather" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-37" value="Scatter-Gather" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="136" y="720" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.432;exitY=1.024;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.432;exitY=1.024;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210.47000000000014" y="671.44" as="sourcePoint" />
             <mxPoint x="210.63" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.432;exitY=1.024;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.432;exitY=1.024;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210.47000000000025" y="780" as="sourcePoint" />
             <mxPoint x="210.6300000000001" y="828.56" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-42" value="Update Delivery Date" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-42" value="Update Delivery Date" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="136" y="828.56" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-43" value="&lt;div&gt;UPDATE OMS_ORDER_HEADER&amp;nbsp;&lt;/div&gt;&lt;div&gt;SET OMS_ORDER_HEADER.DELIVERY_DATE&amp;nbsp;&lt;/div&gt;&lt;div&gt;= (&lt;span&gt;SELECT&amp;nbsp;&lt;/span&gt;&lt;span&gt;CASE&amp;nbsp;&lt;/span&gt;&lt;span&gt;WHEN To_CHAR(ORDER_DATE, &#39;HH24&#39;)&amp;lt;22&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; THEN TO_DATE(:sysdate, &#39;YYYY-MM-DD HH24:MI:SS&#39;)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ELSE TO_DATE(:sysdate,&#39;YYYY-MM-DD HH24:MI:SS&#39;) + 1&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; END FM_DELIVERYDATE&lt;/div&gt;&lt;div&gt;&amp;nbsp; FROM OMS_ORDER_HEADER&lt;/div&gt;&lt;div&gt;&amp;nbsp; WHERE OMS_ORDER_HEADER.ORDERNO = :orderNo&lt;/div&gt;&lt;div&gt;)&lt;/div&gt;&lt;div&gt;WHERE OMS_ORDER_HEADER.ORDERNO = :orderNo&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-43" value="&lt;div&gt;UPDATE OMS_ORDER_HEADER&amp;nbsp;&lt;/div&gt;&lt;div&gt;SET OMS_ORDER_HEADER.DELIVERY_DATE&amp;nbsp;&lt;/div&gt;&lt;div&gt;= (&lt;span&gt;SELECT&amp;nbsp;&lt;/span&gt;&lt;span&gt;CASE&amp;nbsp;&lt;/span&gt;&lt;span&gt;WHEN To_CHAR(ORDER_DATE, &#39;HH24&#39;)&amp;lt;22&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; THEN TO_DATE(:sysdate, &#39;YYYY-MM-DD HH24:MI:SS&#39;)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ELSE TO_DATE(:sysdate,&#39;YYYY-MM-DD HH24:MI:SS&#39;) + 1&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; END FM_DELIVERYDATE&lt;/div&gt;&lt;div&gt;&amp;nbsp; FROM OMS_ORDER_HEADER&lt;/div&gt;&lt;div&gt;&amp;nbsp; WHERE OMS_ORDER_HEADER.ORDERNO = :orderNo&lt;/div&gt;&lt;div&gt;)&lt;/div&gt;&lt;div&gt;WHERE OMS_ORDER_HEADER.ORDERNO = :orderNo&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="350" y="787" width="360" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-44" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.69;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-44" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.69;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="285.95544995151477" y="858.5938682751935" as="sourcePoint" />
             <mxPoint x="349.9999999999998" y="859.8999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-49" value="OMS_ORDER_PAYMENT" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-49" value="OMS_ORDER_PAYMENT" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="136" y="1012" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.432;exitY=1.024;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="SgwJnI46MebYwalEIYTJ-49">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.432;exitY=1.024;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="SgwJnI46MebYwalEIYTJ-49" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210.52000000000027" y="885.44" as="sourcePoint" />
             <mxPoint x="210.68000000000012" y="934" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-51" value="&lt;div&gt;INSERT INTO OMS_ORDER_PAYMENT (ORDERID, PAYMENT_METHOD_ID,&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt;							&lt;/span&gt;PAYMENT_AMOUNT, CREATEDBY, CREATEDDATE, MODIFIEDBY, MODIFIEDDATE) VALUES&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt;							&lt;/span&gt;(:orderID, :paymentMethodId, :paymentAmount, :createdBy,&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt;							&lt;/span&gt;TO_DATE(:sysdate, &#39;YYYY-MM-DD HH24:MI:SS&#39;), :modifiedBy,&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt;							&lt;/span&gt;TO_DATE(:modifiedDate, &#39;YYYY-MM-DD HH24:MI:SS&#39;))&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-51" value="&lt;div&gt;INSERT INTO OMS_ORDER_PAYMENT (ORDERID, PAYMENT_METHOD_ID,&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt;       &lt;/span&gt;PAYMENT_AMOUNT, CREATEDBY, CREATEDDATE, MODIFIEDBY, MODIFIEDDATE) VALUES&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt;       &lt;/span&gt;(:orderID, :paymentMethodId, :paymentAmount, :createdBy,&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt;       &lt;/span&gt;TO_DATE(:sysdate, &#39;YYYY-MM-DD HH24:MI:SS&#39;), :modifiedBy,&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt;       &lt;/span&gt;TO_DATE(:modifiedDate, &#39;YYYY-MM-DD HH24:MI:SS&#39;))&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="348" y="1004" width="460" height="148" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-53" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.69;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-53" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.69;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="284.9954499515148" y="1041.3438682751935" as="sourcePoint" />
             <mxPoint x="349.0399999999998" y="1042.6499999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-54" value="OMS_ORDER_CUSTOMER" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-54" value="OMS_ORDER_CUSTOMER" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="1200" width="166" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-55" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.462;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="SgwJnI46MebYwalEIYTJ-54" parent="1" source="SgwJnI46MebYwalEIYTJ-49">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-55" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.462;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="SgwJnI46MebYwalEIYTJ-49" target="SgwJnI46MebYwalEIYTJ-54" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="1073" as="sourcePoint" />
             <mxPoint x="210.68000000000012" y="1122" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-56" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.69;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-56" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.69;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="284.99544995151473" y="1229.3438682751935" as="sourcePoint" />
             <mxPoint x="349.0399999999995" y="1230.6499999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-57" value="&lt;div&gt;INSERT INTO OMS_ORDER_CUSTOMER (ORDERID, PHONE, CARDNO,&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt;							&lt;/span&gt;NAME, ADDRS, PROVINCE, DISTRICT, WARD, MODIFIEDDATE,MODIFIEDBY) VALUES (:orderID, :phone, :cardNo, :name,&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt;							&lt;/span&gt;:addrs, :province, :district, :ward, TO_DATE(:modifiedDate , &#39;YYYY-MM-DD HH24:MI:SS&#39;) ,:modifiedBy)&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-57" value="&lt;div&gt;INSERT INTO OMS_ORDER_CUSTOMER (ORDERID, PHONE, CARDNO,&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt;       &lt;/span&gt;NAME, ADDRS, PROVINCE, DISTRICT, WARD, MODIFIEDDATE,MODIFIEDBY) VALUES (:orderID, :phone, :cardNo, :name,&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt;       &lt;/span&gt;:addrs, :province, :district, :ward, TO_DATE(:modifiedDate , &#39;YYYY-MM-DD HH24:MI:SS&#39;) ,:modifiedBy)&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="348" y="1192" width="460" height="148" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-60" value="&lt;div&gt;INSERT INTO OMS_ORDER_TRACKING (ORDERID,LINE, ORDERSTATUS, CREATEDBY, NOTE, CREATEDDATE)&lt;/div&gt;&lt;div&gt;SELECT&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;OMS_ORDER_HEADER.ORDERID,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; NVL(MAX(OMS_ORDER_TRACKING.LINE) + 1, 1) AS LINE,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; OMS_ORDER_HEADER.ORDERSTATUS,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; OMS_ORDER_HEADER.CREATEDBY,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; CASE&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; WHEN OMS_ORDER_HEADER.ORDERSTATUS = :orderStatusConfirmed THEN &#39;CONFIRMED&#39;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; WHEN OMS_ORDER_HEADER.ORDERSTATUS = :orderStatusNew THEN &#39;NEW&#39;&lt;/div&gt;&lt;div&gt;&lt;span&gt;		&lt;/span&gt;END NOTE,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; TO_DATE(:sysdate, &#39;YYYY-MM-DD HH24:MI:SS&#39;) AS CREATEDDATE&lt;/div&gt;&lt;div&gt;FROM&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;OMS_ORDER_HEADER&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;FULL OUTER JOIN OMS_ORDER_TRACKING&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;ON OMS_ORDER_HEADER.ORDERID = OMS_ORDER_TRACKING.ORDERID&lt;/div&gt;&lt;div&gt;WHERE&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;OMS_ORDER_HEADER.ORDERNO = :orderID AND OMS_ORDER_HEADER.CHANNEL = :channel&lt;/div&gt;&lt;div&gt;GROUP BY&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;OMS_ORDER_HEADER.ORDERID,&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;OMS_ORDER_HEADER.ORDERSTATUS,&lt;/div&gt;&lt;div&gt;&amp;nbsp; OMS_ORDER_HEADER.CREATEDBY,&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;OMS_ORDER_HEADER.NOTE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-60" value="&lt;div&gt;INSERT INTO OMS_ORDER_TRACKING (ORDERID,LINE, ORDERSTATUS, CREATEDBY, NOTE, CREATEDDATE)&lt;/div&gt;&lt;div&gt;SELECT&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;OMS_ORDER_HEADER.ORDERID,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; NVL(MAX(OMS_ORDER_TRACKING.LINE) + 1, 1) AS LINE,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; OMS_ORDER_HEADER.ORDERSTATUS,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; OMS_ORDER_HEADER.CREATEDBY,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; CASE&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; WHEN OMS_ORDER_HEADER.ORDERSTATUS = :orderStatusConfirmed THEN &#39;CONFIRMED&#39;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; WHEN OMS_ORDER_HEADER.ORDERSTATUS = :orderStatusNew THEN &#39;NEW&#39;&lt;/div&gt;&lt;div&gt;&lt;span&gt;  &lt;/span&gt;END NOTE,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; TO_DATE(:sysdate, &#39;YYYY-MM-DD HH24:MI:SS&#39;) AS CREATEDDATE&lt;/div&gt;&lt;div&gt;FROM&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;OMS_ORDER_HEADER&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;FULL OUTER JOIN OMS_ORDER_TRACKING&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;ON OMS_ORDER_HEADER.ORDERID = OMS_ORDER_TRACKING.ORDERID&lt;/div&gt;&lt;div&gt;WHERE&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;OMS_ORDER_HEADER.ORDERNO = :orderID AND OMS_ORDER_HEADER.CHANNEL = :channel&lt;/div&gt;&lt;div&gt;GROUP BY&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;OMS_ORDER_HEADER.ORDERID,&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;OMS_ORDER_HEADER.ORDERSTATUS,&lt;/div&gt;&lt;div&gt;&amp;nbsp; OMS_ORDER_HEADER.CREATEDBY,&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;OMS_ORDER_HEADER.NOTE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="358" y="1353" width="622" height="437" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-61" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;width=11.428571428571429;endSize=7.000000000000001;" edge="1" parent="1" source="SgwJnI46MebYwalEIYTJ-62" target="SgwJnI46MebYwalEIYTJ-60">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-61" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;width=11.428571428571429;endSize=7.000000000000001;" parent="1" source="SgwJnI46MebYwalEIYTJ-62" target="SgwJnI46MebYwalEIYTJ-60" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="294.99544995151473" y="1390.3438682751937" as="sourcePoint" />
             <mxPoint x="359.0399999999995" y="1391.6499999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-62" value="OMS_ORDER_TRACKING" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-62" value="OMS_ORDER_TRACKING" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="124" y="1430" width="166" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="SgwJnI46MebYwalEIYTJ-62" parent="1" source="SgwJnI46MebYwalEIYTJ-54">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="SgwJnI46MebYwalEIYTJ-54" target="SgwJnI46MebYwalEIYTJ-62" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="215.29999999999995" y="1233.18" as="sourcePoint" />
             <mxPoint x="220.68000000000012" y="1283" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-66" value="insert_OMS ORDER DETAILS" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-66" value="insert_OMS ORDER DETAILS" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="720" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-67" value="running parallel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-67" value="running parallel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="420" y="720" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-68" value="running parallel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-68" value="running parallel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="165" y="790" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-69" value="Retrieve TAXCODE - NAME - GOLDCODE - SV - CINV" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-69" value="Retrieve TAXCODE - NAME - GOLDCODE - SV - CINV" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="950" y="720" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SgwJnI46MebYwalEIYTJ-37" target="SgwJnI46MebYwalEIYTJ-66">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SgwJnI46MebYwalEIYTJ-37" target="SgwJnI46MebYwalEIYTJ-66" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="710" as="sourcePoint" />
             <mxPoint x="690" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-73" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SgwJnI46MebYwalEIYTJ-66" target="SgwJnI46MebYwalEIYTJ-69">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-73" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="SgwJnI46MebYwalEIYTJ-66" target="SgwJnI46MebYwalEIYTJ-69" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="710" as="sourcePoint" />
             <mxPoint x="690" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-74" value="&lt;div&gt;SELECT ARTICLE.ARTTVAV ,&lt;/div&gt;&lt;div&gt;ARTICLE.TSOBDESC ,&lt;/div&gt;&lt;div&gt;ARTICLE.ARTCEXR ,&lt;/div&gt;&lt;div&gt;ARTICLE.ARVCEXV,&amp;nbsp;&lt;/div&gt;&lt;div&gt;ARTICLE.ARVCINV,&amp;nbsp;&lt;/div&gt;&lt;div&gt;(select UNIT_NAME from ADM_MAP_SALE_UNIT where UNIT_CODE_VLP = ARTICLE.UATCATT) UATCATT,&lt;/div&gt;&lt;div&gt;(SELECT&amp;nbsp; v_gold_sv_su.SU FROM&amp;nbsp; v_gold_sv_su v_gold_sv_su WHERE ARVCINV = v_gold_sv_su.CINV and ROWNUM=1)&amp;nbsp; SU,&lt;/div&gt;&lt;div&gt;(select MERCODE from mercstr where mercint = SUB_FAMILY_CINT and Rownum = 1) FAMCODE,&lt;/div&gt;&lt;div&gt;(select MERDESC from mercstr where mercint = SUB_FAMILY_CINT and Rownum = 1) FAMNAME,&lt;/div&gt;&lt;div&gt;(select SUBSTR(MERDEPT, 6, LENgth(MERDEPT) - 5) from mercstr where mercint = SUB_FAMILY_CINT and Rownum = 1) DEPTNAME&lt;/div&gt;&lt;div&gt;FROM ARTICLE&amp;nbsp;&lt;/div&gt;&lt;div&gt;WHERE ARTICLE.ARVCINV = (SELECT ARCCINV FROM V_COCA_SITE WHERE ARCCODE = :barCode and ARCSITE = :storeID and ARCETAT = 1&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; and ARCDDEB &amp;lt;= trunc(sysdate)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; and ARCDFIN &amp;gt;= trunc(sysdate)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; AND ROWNUM = 1&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; )&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-74" value="&lt;div&gt;SELECT ARTICLE.ARTTVAV ,&lt;/div&gt;&lt;div&gt;ARTICLE.TSOBDESC ,&lt;/div&gt;&lt;div&gt;ARTICLE.ARTCEXR ,&lt;/div&gt;&lt;div&gt;ARTICLE.ARVCEXV,&amp;nbsp;&lt;/div&gt;&lt;div&gt;ARTICLE.ARVCINV,&amp;nbsp;&lt;/div&gt;&lt;div&gt;(select UNIT_NAME from ADM_MAP_SALE_UNIT where UNIT_CODE_VLP = ARTICLE.UATCATT) UATCATT,&lt;/div&gt;&lt;div&gt;(SELECT&amp;nbsp; v_gold_sv_su.SU FROM&amp;nbsp; v_gold_sv_su v_gold_sv_su WHERE ARVCINV = v_gold_sv_su.CINV and ROWNUM=1)&amp;nbsp; SU,&lt;/div&gt;&lt;div&gt;(select MERCODE from mercstr where mercint = SUB_FAMILY_CINT and Rownum = 1) FAMCODE,&lt;/div&gt;&lt;div&gt;(select MERDESC from mercstr where mercint = SUB_FAMILY_CINT and Rownum = 1) FAMNAME,&lt;/div&gt;&lt;div&gt;(select SUBSTR(MERDEPT, 6, LENgth(MERDEPT) - 5) from mercstr where mercint = SUB_FAMILY_CINT and Rownum = 1) DEPTNAME&lt;/div&gt;&lt;div&gt;FROM ARTICLE&amp;nbsp;&lt;/div&gt;&lt;div&gt;WHERE ARTICLE.ARVCINV = (SELECT ARCCINV FROM V_COCA_SITE WHERE ARCCODE = :barCode and ARCSITE = :storeID and ARCETAT = 1&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; and ARCDDEB &amp;lt;= trunc(sysdate)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; and ARCDFIN &amp;gt;= trunc(sysdate)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; AND ROWNUM = 1&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; )&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="740" y="380" width="850" height="262" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-78" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.34;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-78" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.34;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="1049" y="719" as="sourcePoint" />
             <mxPoint x="1051" y="642.7259999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-79" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SgwJnI46MebYwalEIYTJ-69">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-79" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="SgwJnI46MebYwalEIYTJ-69" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1070" y="640" as="sourcePoint" />
             <mxPoint x="1270" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-80" value="Bulk Insert Items" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-80" value="Bulk Insert Items" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1271" y="720" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-81" value="&lt;div&gt;INSERT INTO OMS_ORDER_DETAILS (ORDERID, LINE, BARCODE, NAME, QTY, PRICE, TAXCODE, TAXVALUE,&amp;nbsp;&lt;span&gt;AMTTOTAL, AMTPROMO, DESPROMO, STATUS, CINV, GOLDCODE, SV, SALEUNIT, SU, MODIFIEDDATE,MODIFIEDBY, FAMCODE, FAMNAME, DEPTNAME)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;span&gt;									&lt;/span&gt;VALUES(:orderID, :line, :barcode, :name, :qty, :price, :taxCode, :taxValue,&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;span&gt;										&lt;/span&gt; :amtTotal, :amtPromo, :despromo, :status, :cinv,:goldCode, :sv, :saleUnit, :su, TO_DATE(:modifiedDate , &#39;YYYY-MM-DD HH24:MI:SS&#39;) ,:modifiedBy, :famcode, :famname, :deptname)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-81" value="&lt;div&gt;INSERT INTO OMS_ORDER_DETAILS (ORDERID, LINE, BARCODE, NAME, QTY, PRICE, TAXCODE, TAXVALUE,&amp;nbsp;&lt;span&gt;AMTTOTAL, AMTPROMO, DESPROMO, STATUS, CINV, GOLDCODE, SV, SALEUNIT, SU, MODIFIEDDATE,MODIFIEDBY, FAMCODE, FAMNAME, DEPTNAME)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;span&gt;         &lt;/span&gt;VALUES(:orderID, :line, :barcode, :name, :qty, :price, :taxCode, :taxValue,&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;span&gt;          &lt;/span&gt; :amtTotal, :amtPromo, :despromo, :status, :cinv,:goldCode, :sv, :saleUnit, :su, TO_DATE(:modifiedDate , &#39;YYYY-MM-DD HH24:MI:SS&#39;) ,:modifiedBy, :famcode, :famname, :deptname)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1150" y="861" width="470" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-83" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.34;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-83" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.34;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="1364.57" y="857.27" as="sourcePoint" />
             <mxPoint x="1366.57" y="780.9959999999996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-84" value="Luồng xử lý insert order (1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-84" value="Luồng xử lý insert order (1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="220" y="470" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-85" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SgwJnI46MebYwalEIYTJ-19">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-85" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="SgwJnI46MebYwalEIYTJ-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="500" as="sourcePoint" />
             <mxPoint x="-40" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-86" value="Sau khi xử lý xong luồng (1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-86" value="Sau khi xử lý xong luồng (1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-15" y="410" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-87" value="send-to-OMS Sub Flow" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-87" value="send-to-OMS Sub Flow" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-160" y="390" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-88" value="Call To oms_creation order_request:\main Sub Flow" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-88" value="Call To oms_creation order_request:\main Sub Flow" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-340" y="375" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-89" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SgwJnI46MebYwalEIYTJ-87" target="SgwJnI46MebYwalEIYTJ-88">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-89" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="SgwJnI46MebYwalEIYTJ-87" target="SgwJnI46MebYwalEIYTJ-88" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-220" y="500" as="sourcePoint" />
             <mxPoint x="-170" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-90" value="(2)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-90" value="(2)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="50" y="430" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-91" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SgwJnI46MebYwalEIYTJ-80">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-91" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="SgwJnI46MebYwalEIYTJ-80" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1320" y="850" as="sourcePoint" />
             <mxPoint x="1560" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SgwJnI46MebYwalEIYTJ-92" value="Kết thúc luồng 1, di chuyển đến luồng 2" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SgwJnI46MebYwalEIYTJ-92" value="Kết thúc luồng 1, di chuyển đến luồng 2" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1560" y="710" width="140" height="100" as="geometry" />
         </mxCell>
       </root>
